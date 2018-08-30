@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "656848250214",
+    "firebase_url": "https://animalsfb-599.firebaseio.com",
+    "project_id": "animalsfb-599",
+    "storage_bucket": "animalsfb-599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656848250214:android:00e9c5fe9d6a8b57",
+        "android_client_info": {
+          "package_name": "com.google.firebase.animalsfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656848250214-jt5havcu9lso3a6haeeq82ggjvsg96nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3xcjJFqxeK14pV_Y0VjI_kFcYMydA1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

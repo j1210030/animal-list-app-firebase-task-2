@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KnowMe</string>
+    <string-array name="items_category">
+        <item>Amphibians</item>
+        <item>Mammals</item>
+    </string-array>
+    <string-array name="items_food">
+        <item>Carnivorous</item>
+        <item>Harnivorous</item>
+    </string-array>
+</resources>
